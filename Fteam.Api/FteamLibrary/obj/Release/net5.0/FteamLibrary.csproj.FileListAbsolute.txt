@@ -1,0 +1,12 @@
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\bin\Release\net5.0\FteamLibrary.deps.json
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\bin\Release\net5.0\FteamLibrary.dll
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\bin\Release\net5.0\ref\FteamLibrary.dll
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\bin\Release\net5.0\FteamLibrary.pdb
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\obj\Release\net5.0\FteamLibrary.csprojAssemblyReference.cache
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\obj\Release\net5.0\FteamLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\obj\Release\net5.0\FteamLibrary.AssemblyInfoInputs.cache
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\obj\Release\net5.0\FteamLibrary.AssemblyInfo.cs
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\obj\Release\net5.0\FteamLibrary.csproj.CoreCompileInputs.cache
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\obj\Release\net5.0\FteamLibrary.dll
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\obj\Release\net5.0\ref\FteamLibrary.dll
+C:\Users\joelh\Documents\SourceCode\SolucionGimnasio\Solucion-Gimnasio\Fteam.Api\FteamApi\FteamLibrary\obj\Release\net5.0\FteamLibrary.pdb

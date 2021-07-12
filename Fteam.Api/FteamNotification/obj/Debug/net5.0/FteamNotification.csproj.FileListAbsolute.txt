@@ -1,0 +1,11 @@
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\FteamNotification\bin\Debug\net5.0\FteamNotification.deps.json
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\FteamNotification\bin\Debug\net5.0\FteamNotification.dll
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\FteamNotification\bin\Debug\net5.0\ref\FteamNotification.dll
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\FteamNotification\bin\Debug\net5.0\FteamNotification.pdb
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\FteamNotification\obj\Debug\net5.0\FteamNotification.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\FteamNotification\obj\Debug\net5.0\FteamNotification.AssemblyInfoInputs.cache
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\FteamNotification\obj\Debug\net5.0\FteamNotification.AssemblyInfo.cs
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\FteamNotification\obj\Debug\net5.0\FteamNotification.csproj.CoreCompileInputs.cache
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\FteamNotification\obj\Debug\net5.0\FteamNotification.dll
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\FteamNotification\obj\Debug\net5.0\ref\FteamNotification.dll
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\FteamNotification\obj\Debug\net5.0\FteamNotification.pdb

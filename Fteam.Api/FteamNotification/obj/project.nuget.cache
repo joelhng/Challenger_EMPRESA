@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGhopp8IESlxU1Gk3cI8vHhWB4AjN0BIz+aVqdnhu/Tv37K3NQ1qAAzOhLo4peE8QqGKI/EW5v2OoUwNd7zLDw==",
+  "success": true,
+  "projectFilePath": "D:\\_Proyectos\\SolucionGimnasio\\FteamApi\\Fteam.Api\\FteamNotification\\FteamNotification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joelh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

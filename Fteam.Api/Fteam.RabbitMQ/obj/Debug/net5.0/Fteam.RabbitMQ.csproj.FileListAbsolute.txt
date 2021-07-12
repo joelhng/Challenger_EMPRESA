@@ -1,0 +1,12 @@
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\bin\Debug\net5.0\Fteam.RabbitMQ.dll.config
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\bin\Debug\net5.0\Fteam.RabbitMQ.deps.json
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\bin\Debug\net5.0\Fteam.RabbitMQ.dll
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\bin\Debug\net5.0\ref\Fteam.RabbitMQ.dll
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\bin\Debug\net5.0\Fteam.RabbitMQ.pdb
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\obj\Debug\net5.0\Fteam.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\obj\Debug\net5.0\Fteam.RabbitMQ.AssemblyInfoInputs.cache
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\obj\Debug\net5.0\Fteam.RabbitMQ.AssemblyInfo.cs
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\obj\Debug\net5.0\Fteam.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\obj\Debug\net5.0\Fteam.RabbitMQ.dll
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\obj\Debug\net5.0\ref\Fteam.RabbitMQ.dll
+D:\_Proyectos\SolucionGimnasio\FteamApi\Fteam.Api\Fteam.RabbitMQ\obj\Debug\net5.0\Fteam.RabbitMQ.pdb

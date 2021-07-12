@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FteamApi", "FteamApi\FteamApi.csproj", "{2D90F066-77E4-4165-9229-7D7893AE94B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FteamLibrary", "FteamLibrary\FteamLibrary.csproj", "{E6DB2859-C069-430E-B5D8-8B4A29D10BD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FteamNotification", "FteamNotification\FteamNotification.csproj", "{6AC6A914-41F3-47AB-8985-5ECB8514458B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fteam.RabbitMQ", "Fteam.RabbitMQ\Fteam.RabbitMQ.csproj", "{76F51AED-6EAC-4DFB-B067-F7977F479AC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Web", "1 - Web", "{79D11843-CE56-48B8-A685-D5898F35725C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Librerias", "2 - Librerias", "{4101234B-4A0F-445D-ADA6-00121DDE0148}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Test", "3 - Test", "{FC12931C-50A0-4124-97CC-EC3174ADDF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Fteam", "Test.Fteam\Test.Fteam.csproj", "{D0196815-96B0-4186-8C83-28848DD25657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D90F066-77E4-4165-9229-7D7893AE94B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D90F066-77E4-4165-9229-7D7893AE94B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D90F066-77E4-4165-9229-7D7893AE94B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D90F066-77E4-4165-9229-7D7893AE94B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6DB2859-C069-430E-B5D8-8B4A29D10BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6DB2859-C069-430E-B5D8-8B4A29D10BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6DB2859-C069-430E-B5D8-8B4A29D10BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DB2859-C069-430E-B5D8-8B4A29D10BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC6A914-41F3-47AB-8985-5ECB8514458B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC6A914-41F3-47AB-8985-5ECB8514458B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC6A914-41F3-47AB-8985-5ECB8514458B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC6A914-41F3-47AB-8985-5ECB8514458B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F51AED-6EAC-4DFB-B067-F7977F479AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F51AED-6EAC-4DFB-B067-F7977F479AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F51AED-6EAC-4DFB-B067-F7977F479AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F51AED-6EAC-4DFB-B067-F7977F479AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0196815-96B0-4186-8C83-28848DD25657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0196815-96B0-4186-8C83-28848DD25657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0196815-96B0-4186-8C83-28848DD25657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0196815-96B0-4186-8C83-28848DD25657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2D90F066-77E4-4165-9229-7D7893AE94B2} = {79D11843-CE56-48B8-A685-D5898F35725C}
+		{E6DB2859-C069-430E-B5D8-8B4A29D10BD5} = {4101234B-4A0F-445D-ADA6-00121DDE0148}
+		{6AC6A914-41F3-47AB-8985-5ECB8514458B} = {4101234B-4A0F-445D-ADA6-00121DDE0148}
+		{76F51AED-6EAC-4DFB-B067-F7977F479AC6} = {4101234B-4A0F-445D-ADA6-00121DDE0148}
+		{D0196815-96B0-4186-8C83-28848DD25657} = {FC12931C-50A0-4124-97CC-EC3174ADDF8F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F99B011-46A1-4772-961B-B1C6DC77FC65}
+	EndGlobalSection
+EndGlobal
